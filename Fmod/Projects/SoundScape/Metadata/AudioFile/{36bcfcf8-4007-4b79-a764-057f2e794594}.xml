@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{36bcfcf8-4007-4b79-a764-057f2e794594}">
+        <property name="assetPath">
+            <value>LowAddative.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>123.42857142857143</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{298eb5ac-b6ff-4306-8910-0e1d56d73595}</destination>
+        </relationship>
+    </object>
+</objects>
